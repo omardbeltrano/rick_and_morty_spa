@@ -9,4 +9,4 @@ Toda la información t datos utilizados en este proyecto se obtuvieron de Rick a
 
 3. Correr el proyecto con el comando "npm run start"
 
-También pudes ver el demo de la single page en ()
+También pudes ver el demo de la single page en (https://omardbeltrano.github.io/rick_and_morty_spa/)
